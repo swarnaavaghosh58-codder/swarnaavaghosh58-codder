@@ -56,9 +56,7 @@ Docker • Git • GitHub • Linux
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnaavaghosh58-codder&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
 </p>
-
-
-
+---
 name: Generate Snake
 
 on:
@@ -69,12 +67,14 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: swarnaavaghosh58-codder
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
@@ -83,3 +83,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
