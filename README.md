@@ -45,7 +45,8 @@ Docker • Git • GitHub • Linux
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnaavaghosh58-codder&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-
+---
+feat: integrate GitHub statistics dashboard into profile README
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/swarnaavaghosh58-codder/swarnaavaghosh58-codder/output/github-contribution-grid-snake.svg" />
