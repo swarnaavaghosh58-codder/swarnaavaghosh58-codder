@@ -1,47 +1,61 @@
-<h1 align="center">Hi 👋, I'm Swarnava Ghosh</h1>
-<h3 align="center">🚀 Java | MERN Stack | Aspiring Software Engineer</h3>
+<h1 align="center">Swarnava Ghosh</h1>
+<p align="center">
+  Software Developer | Java & MERN Stack | Problem Solver
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/swarnava-ghosh-ab94752a2/">LinkedIn</a> •
+  <a href="mailto:swarnaava.ghosh58@gmail.com">Email</a> •
+  <a href="https://github.com/swarnaavaghosh58-codder">GitHub</a>
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 Computer Science Student  
-- 💻 Currently Learning **React & Backend Development**
-- 🔥 Strong in **Java, OOP, Data Structures**
-- 🌱 Exploring **DevOps & Cloud**
-- 📫 Reach me at: **swarnaava.ghosh58@gmail.com**
+I am a Computer Science student focused on building scalable and efficient software solutions.  
+My primary expertise lies in **Java, Data Structures, and Full Stack Web Development**.  
 
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/swarnava-ghosh-ab94752a2/
-- 💻 GitHub: https://github.com/swarnaavaghosh58-codder
+Currently exploring:
+- Backend Architecture
+- Cloud & DevOps Fundamentals
+- System Design Basics
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Languages**  
+Java • C++ • JavaScript  
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Frontend**  
+React • HTML5 • CSS3 • Tailwind CSS  
 
-### 🛠 Backend & Tools
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Backend**  
+Node.js • Express.js  
+
+**Database**  
+MongoDB  
+
+**Tools & DevOps**  
+Git • Docker  
 
 ---
 
-## 🐍 Contribution Snake
+## GitHub Overview
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=swarnaavaghosh58-codder&show_icons=true&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnaavaghosh58-codder&layout=compact&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=swarnaavaghosh58-codder&theme=default&hide_border=true" />
+</p>
+
+---
+
+## Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/swarnaavaghosh58-codder/swarnaavaghosh58-codder/main/output/github-contribution-grid-snake.svg" />
@@ -49,22 +63,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swarnaavaghosh58-codder&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=swarnaavaghosh58-codder&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnaavaghosh58-codder&layout=compact&theme=tokyonight" />
+  <i>Focused on continuous learning and building production-ready applications.</i>
 </p>
-
----
-
-## 💡 Quote
-
-> “First, solve the problem. Then, write the code.” – John Johnson
-
----
-
-⭐ From Swarnava Ghosh
