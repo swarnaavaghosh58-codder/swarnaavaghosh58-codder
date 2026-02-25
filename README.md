@@ -1,68 +1,72 @@
-<h1 align="center">Swarnava Ghosh</h1>
-<p align="center">
-  Software Developer | Java & MERN Stack | Problem Solver
-</p>
+<h1 align="center">Hi 👋, I'm Swarnava Ghosh</h1>
+<h3 align="center">Backend-Focused Software Engineer | Java & MERN Stack Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/swarnava-ghosh-ab94752a2/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/swarnavaghosh51/" target="_blank">LinkedIn</a> •
   <a href="mailto:swarnaava.ghosh58@gmail.com">Email</a> •
   <a href="https://github.com/swarnaavaghosh58-codder">GitHub</a>
 </p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I am a Computer Science student focused on building scalable and efficient software solutions.  
-My primary expertise lies in **Java, Data Structures, and Full Stack Web Development**.  
+🎓 Computer Science Student passionate about building scalable and efficient software systems.  
+💻 Strong foundation in **Java, Data Structures & Algorithms, and Full Stack Development**.  
+🔥 Focused on backend architecture and writing clean, production-ready code.
 
-Currently exploring:
-- Backend Architecture
+### 🌱 Currently Learning
+- Backend System Design
 - Cloud & DevOps Fundamentals
-- System Design Basics
+- Scalable Architecture Patterns
 
 ---
 
-## Technical Skills
+## 🛠 Tech Stack
 
-**Languages**  
-Java • C++ • JavaScript  
+### 💻 Languages
+Java • C++ • JavaScript • Python  
 
-**Frontend**  
-React • HTML5 • CSS3 • Tailwind CSS  
+### ⚙ Backend
+Spring Boot • Node.js • REST APIs  
 
-**Backend**  
-Node.js • Express.js  
+### 🎨 Frontend
+React.js • HTML • CSS  
 
-**Database**  
-MongoDB  
+### 🗄 Database
+MySQL • MongoDB  
 
-**Tools & DevOps**  
-Git • Docker  
+### 🚀 DevOps & Tools
+Docker • Git • GitHub • Linux  
 
 ---
 
-## GitHub Overview
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=swarnaavaghosh58-codder&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnaavaghosh58-codder&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=swarnaavaghosh58-codder&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swarnaavaghosh58-codder&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Contribution Activity
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/swarnaavaghosh58-codder/swarnaavaghosh58-codder/main/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarnaavaghosh58-codder&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
+## 🚀 Top Languages
+
 <p align="center">
-  <i>Focused on continuous learning and building production-ready applications.</i>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnaavaghosh58-codder&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/swarnaavaghosh58-codder/swarnaavaghosh58-codder/output/github-contribution-grid-snake.svg" />
 </p>
