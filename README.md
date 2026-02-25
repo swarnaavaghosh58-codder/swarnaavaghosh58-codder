@@ -48,3 +48,11 @@ With a strong foundation in Data Structures & Algorithms, I enjoy solving real-w
 
 - 💼 LinkedIn: [Swarnava Ghosh](https://www.linkedin.com/in/swarnavaghosh51/)
 - 📧 Email: swarnaava.ghosh58@gmail.com
+---
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/swarnaavaghosh58-codder/swarnaavaghosh58-codder/output/github-contribution-grid-snake.svg" />
+</p>
