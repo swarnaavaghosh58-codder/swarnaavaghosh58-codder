@@ -63,13 +63,13 @@ With a strong foundation in Data Structures & Algorithms, I enjoy solving real-w
   <img src="https://github-readme-stats.vercel.app/api?username=swarnaavaghosh58-codder&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 ---
-## 🔥 GitHub Streak
+ 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarnaavaghosh58-codder&theme=tokyonight" />
 </p>
 ---
-## 🚀 Top Languages
+ 🚀 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnaavaghosh58-codder&layout=compact&theme=tokyonight" />
