@@ -52,14 +52,10 @@ Docker • Git • GitHub • Linux
 ---
 
 ## 🚀 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnaavaghosh58-codder&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnaavaghosh58-codder&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
-</p>
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnaavaghosh58-codder&layout=compact&theme=tokyonight" />
-</p>
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/swarnaavaghosh58-codder/swarnaavaghosh58-codder/output/github-contribution-grid-snake.svg" />
