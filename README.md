@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-🎓 Computer Science Student passionate about building scalable and efficient software systems.  
+🎓 IT Student passionate about building scalable and efficient software systems.  
 💻 Strong foundation in **Java, Data Structures & Algorithms, and Full Stack Development**.  
 🔥 Focused on backend architecture and writing clean, production-ready code.
 
