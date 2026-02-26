@@ -29,24 +29,40 @@
 ## 🛠 Tech Stack
 
 <p align="center">
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="40"/> Java &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="40"/> C++ &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="40"/> JavaScript &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="40"/> Python
+</p>
 
-### 💻 Languages  
-<img src="https://skillicons.dev/icons?i=java,cpp,js,python" />
+### ⚙ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" height="40"/> Spring Boot &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/> Node.js
+</p>
 
-### ⚙ Backend  
-<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="40"/> React &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="40"/> HTML &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="40"/> CSS
+</p>
 
-### 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=react,html,css" />
+### 🗄 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/> MySQL &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/> MongoDB
+</p>
 
-### 🗄 Database  
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-### 🚀 DevOps & Tools  
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
-
-</p>  
-  
+### 🚀 DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" height="40"/> Docker &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="40"/> Git &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="40"/> GitHub &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" height="40"/> Linux
+</p>
 ---
 ## 🚀 Top Languages
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=swarnaavaghosh58-codder&layout=compact&theme=tokyonight)
