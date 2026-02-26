@@ -46,6 +46,9 @@ Docker • Git • GitHub • Linux
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=swarnaavaghosh58-codder&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinjoymahanti&theme=radical&bg_color=1a1b26&hide_border=true" alt="Activity Graph" />
+</div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/swarnaavaghosh58-codder/swarnaavaghosh58-codder/output/github-contribution-grid-snake.svg" />
 </p>
