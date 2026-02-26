@@ -24,20 +24,25 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-Java • C++ • JavaScript • Python  
+<p align="center">
 
-### ⚙ Backend
-Spring Boot • Node.js • REST APIs  
+### 💻 Languages  
+<img src="https://skillicons.dev/icons?i=java,cpp,js,python" />
 
-### 🎨 Frontend
-React.js • HTML • CSS  
+### ⚙ Backend  
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
 
-### 🗄 Database
-MySQL • MongoDB  
+### 🎨 Frontend  
+<img src="https://skillicons.dev/icons?i=react,html,css" />
 
-### 🚀 DevOps & Tools
-Docker • Git • GitHub • Linux  
+### 🗄 Database  
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+### 🚀 DevOps & Tools  
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+
+</p>  
+  
 ---
 ## 🚀 Top Languages
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=swarnaavaghosh58-codder&layout=compact&theme=tokyonight)
