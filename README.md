@@ -64,8 +64,13 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40"/> Linux
 </p>
 ---
+---
+
 ## 🚀 Top Languages
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=swarnaavaghosh58-codder&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=swarnaavaghosh58-codder&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
