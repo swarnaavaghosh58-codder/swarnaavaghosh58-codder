@@ -20,6 +20,7 @@
 🔥 Focused on backend architecture and writing clean, production-ready code.
 
 ### 🌱 Currently Learning
+- Data Structures and Algorithms (DSA)
 - Backend System Design
 - Cloud & DevOps Fundamentals
 - Scalable Architecture Patterns
