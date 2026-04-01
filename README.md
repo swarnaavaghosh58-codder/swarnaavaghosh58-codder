@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Swarnaava Ghosh</h1>
+<h1 align="center">Hi 👋, I'm Swarnava Ghosh</h1>
 <h3 align="center">Frontend and Backend-Focused Software Engineer | Java & MERN Stack Developer | DSA Enthusiast</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Focused+Engineer;Spring+Boot+Developer;MERN+Stack+Developer;DSA+Enthusiast" />
