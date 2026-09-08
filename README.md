@@ -1,31 +1,4 @@
-<div align="center">
-
-  <img 
-    src="YOUR_REAL_CAT_GIF_URL"
-    width="180"
-    alt="3D Cat"
-  />
-
-  <h1>Hi 👋, I'm Swarnava Ghosh</h1>
-
-  <h3>
-    💻 Software Engineer | Java • Spring Boot • MERN • DSA
-  </h3>
-
-  <p>
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Backend+Engineering;MERN+Stack+Developer;Data+Structures+%26+Algorithms;Building+Scalable+Software"
-      alt="Typing SVG"
-    />
-  </p>
-
-</div>
-
-### 💻 Software Engineer | Java • Spring Boot • MERN • DSA
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+%7C+Spring+Boot+Developer;Backend+Engineering;MERN+Stack+Developer;Data+Structures+%26+Algorithms;Building+Scalable+Software"/>
-
-</div>
+<h1 align="center">Hi 👋, I'm Swarnava Ghosh</h1>
 
 <h3 align="center">
 Backend-Focused Software Engineer • Java & MERN Stack Developer • DSA Enthusiast
