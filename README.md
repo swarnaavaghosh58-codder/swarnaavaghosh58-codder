@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Swarnava Ghosh</h1>
+<h1 align="center"
+  <img src="YOUR_3D_CAT_GIF_URL" width="180" alt="3D Cat"/>
+  >Hi 👋, I'm Swarnava Ghosh</h1>
 
 <h3 align="center">
 Backend-Focused Software Engineer • Java & MERN Stack Developer • DSA Enthusiast
