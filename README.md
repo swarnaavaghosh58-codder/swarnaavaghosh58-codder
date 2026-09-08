@@ -1,6 +1,14 @@
-<h1 align="center"
-  <img src="YOUR_3D_CAT_GIF_URL" width="180" alt="3D Cat"/>
-  >Hi 👋, I'm Swarnava Ghosh</h1>
+<div align="center">
+
+<img src="YOUR_3D_CAT_GIF_URL" width="180" alt="3D Cat"/>
+
+# Hi 👋, I'm Swarnava Ghosh
+
+### 💻 Software Engineer | Java • Spring Boot • MERN • DSA
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+%7C+Spring+Boot+Developer;Backend+Engineering;MERN+Stack+Developer;Data+Structures+%26+Algorithms;Building+Scalable+Software"/>
+
+</div>
 
 <h3 align="center">
 Backend-Focused Software Engineer • Java & MERN Stack Developer • DSA Enthusiast
